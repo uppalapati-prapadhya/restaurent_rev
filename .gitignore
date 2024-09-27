@@ -1,0 +1,7 @@
+
+### 5. **Add Files to Git**
+Add all the files under version control, making sure to exclude what's listed in your `.gitignore` file:
+
+```bash
+git add .
+
